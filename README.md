@@ -31,3 +31,5 @@ Library Requirements: The following libraries are required to run the complete s
 ![](Images/Final_votecount1.PNG)
 ![](Images/Final_votecount2.PNG)
 ![](Images/Tampering.PNG)
+
+For the project presentation : ![Click here](Votechain-presentation.pptx)
